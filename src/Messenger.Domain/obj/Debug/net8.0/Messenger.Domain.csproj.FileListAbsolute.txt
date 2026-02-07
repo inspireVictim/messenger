@@ -1,0 +1,11 @@
+/home/momshacker/Study/cryptographo/massenger/src/Messenger.Domain/bin/Debug/net8.0/Messenger.Domain.deps.json
+/home/momshacker/Study/cryptographo/massenger/src/Messenger.Domain/bin/Debug/net8.0/Messenger.Domain.dll
+/home/momshacker/Study/cryptographo/massenger/src/Messenger.Domain/bin/Debug/net8.0/Messenger.Domain.pdb
+/home/momshacker/Study/cryptographo/massenger/src/Messenger.Domain/obj/Debug/net8.0/Messenger.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/momshacker/Study/cryptographo/massenger/src/Messenger.Domain/obj/Debug/net8.0/Messenger.Domain.AssemblyInfoInputs.cache
+/home/momshacker/Study/cryptographo/massenger/src/Messenger.Domain/obj/Debug/net8.0/Messenger.Domain.AssemblyInfo.cs
+/home/momshacker/Study/cryptographo/massenger/src/Messenger.Domain/obj/Debug/net8.0/Messenger.Domain.csproj.CoreCompileInputs.cache
+/home/momshacker/Study/cryptographo/massenger/src/Messenger.Domain/obj/Debug/net8.0/Messenger.Domain.dll
+/home/momshacker/Study/cryptographo/massenger/src/Messenger.Domain/obj/Debug/net8.0/refint/Messenger.Domain.dll
+/home/momshacker/Study/cryptographo/massenger/src/Messenger.Domain/obj/Debug/net8.0/Messenger.Domain.pdb
+/home/momshacker/Study/cryptographo/massenger/src/Messenger.Domain/obj/Debug/net8.0/ref/Messenger.Domain.dll

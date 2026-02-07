@@ -1,0 +1,17 @@
+/home/momshacker/Study/cryptographo/massenger/src/Messenger.Infrastructure/bin/Debug/net8.0/Messenger.Infrastructure.deps.json
+/home/momshacker/Study/cryptographo/massenger/src/Messenger.Infrastructure/bin/Debug/net8.0/Messenger.Infrastructure.dll
+/home/momshacker/Study/cryptographo/massenger/src/Messenger.Infrastructure/bin/Debug/net8.0/Messenger.Infrastructure.pdb
+/home/momshacker/Study/cryptographo/massenger/src/Messenger.Infrastructure/bin/Debug/net8.0/Messenger.Application.dll
+/home/momshacker/Study/cryptographo/massenger/src/Messenger.Infrastructure/bin/Debug/net8.0/Messenger.Domain.dll
+/home/momshacker/Study/cryptographo/massenger/src/Messenger.Infrastructure/bin/Debug/net8.0/Messenger.Application.pdb
+/home/momshacker/Study/cryptographo/massenger/src/Messenger.Infrastructure/bin/Debug/net8.0/Messenger.Domain.pdb
+/home/momshacker/Study/cryptographo/massenger/src/Messenger.Infrastructure/obj/Debug/net8.0/Messenger.Infrastructure.csproj.AssemblyReference.cache
+/home/momshacker/Study/cryptographo/massenger/src/Messenger.Infrastructure/obj/Debug/net8.0/Messenger.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/momshacker/Study/cryptographo/massenger/src/Messenger.Infrastructure/obj/Debug/net8.0/Messenger.Infrastructure.AssemblyInfoInputs.cache
+/home/momshacker/Study/cryptographo/massenger/src/Messenger.Infrastructure/obj/Debug/net8.0/Messenger.Infrastructure.AssemblyInfo.cs
+/home/momshacker/Study/cryptographo/massenger/src/Messenger.Infrastructure/obj/Debug/net8.0/Messenger.Infrastructure.csproj.CoreCompileInputs.cache
+/home/momshacker/Study/cryptographo/massenger/src/Messenger.Infrastructure/obj/Debug/net8.0/Messenge.BB154FBD.Up2Date
+/home/momshacker/Study/cryptographo/massenger/src/Messenger.Infrastructure/obj/Debug/net8.0/Messenger.Infrastructure.dll
+/home/momshacker/Study/cryptographo/massenger/src/Messenger.Infrastructure/obj/Debug/net8.0/refint/Messenger.Infrastructure.dll
+/home/momshacker/Study/cryptographo/massenger/src/Messenger.Infrastructure/obj/Debug/net8.0/Messenger.Infrastructure.pdb
+/home/momshacker/Study/cryptographo/massenger/src/Messenger.Infrastructure/obj/Debug/net8.0/ref/Messenger.Infrastructure.dll

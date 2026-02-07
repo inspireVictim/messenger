@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "c5QJEBRLP/c=",
+  "success": true,
+  "projectFilePath": "/home/momshacker/Study/cryptographo/massenger/src/Messenger.Domain/Messenger.Domain.csproj",
+  "expectedPackageFiles": [
+    "/tmp/cursor-sandbox-cache/a9061d50e3ed80cbb57fc9af6febc197/nuget/microsoft.netcore.app.ref/8.0.22/microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "/tmp/cursor-sandbox-cache/a9061d50e3ed80cbb57fc9af6febc197/nuget/microsoft.aspnetcore.app.ref/8.0.22/microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

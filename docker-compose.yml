@@ -1,0 +1,27 @@
+# Базовый стенд: API + PostgreSQL. Для локальной разработки и проверки сборки.
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: src/Messenger.WebAPI/Dockerfile
+    ports:
+      - "5000:8080"
+    environment:
+      - ConnectionStrings__DefaultConnection=Host=db;Port=5432;Database=messenger;Username=postgres;Password=postgres
+    depends_on:
+      - db
+
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: messenger
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+volumes:
+  pgdata:
